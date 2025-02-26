@@ -2,6 +2,8 @@
 
 **Showcase-Travel**은 여행지를 소개하고, 사용자들이 여행을 계획할 수 있도록 돕는 웹 애플리케이션입니다.  
 
+https://tjddbs531.github.io/Showcase-Travel/ (배포 링크)
+
 ## ✨ 주요 기능
 
 ## 🛠️ 기술 스택
