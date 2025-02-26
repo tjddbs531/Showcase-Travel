@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Showcase-Travel/static/css/main.94d1ade9.css",
+    "main.js": "/Showcase-Travel/static/js/main.7122d4cc.js",
+    "static/js/453.8d4e7591.chunk.js": "/Showcase-Travel/static/js/453.8d4e7591.chunk.js",
+    "index.html": "/Showcase-Travel/index.html",
+    "main.94d1ade9.css.map": "/Showcase-Travel/static/css/main.94d1ade9.css.map",
+    "main.7122d4cc.js.map": "/Showcase-Travel/static/js/main.7122d4cc.js.map",
+    "453.8d4e7591.chunk.js.map": "/Showcase-Travel/static/js/453.8d4e7591.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.94d1ade9.css",
+    "static/js/main.7122d4cc.js"
+  ]
+}
